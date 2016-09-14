@@ -6,9 +6,4 @@ database.sqlite
 node_modules
 ncp-debug.log
 npm-debug.log
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/dictionaries
-.idea/vcs.xml
-.idea/jsLibraryMappings.xml
-.idea/misc.xml
+.idea
